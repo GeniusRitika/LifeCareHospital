@@ -1,0 +1,36 @@
+body{
+    background-image: url("Nurse.webp");
+    background-size:cover;
+    background-position: initial;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    height: 100vh;
+}
+
+.form{
+    width: 450px;
+    font-size: 18px;
+}
+
+.button{
+    font-size: 25px;
+    background-color: crimson;
+    color: white;
+    text-decoration: none;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+    box-shadow: 3px 4px black;
+}
+
+.main-container{
+    width: fit-content;
+    background-color: rgba(0,0,0,0.5);
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 25px;
+    box-shadow: 6px 7px black;
+}

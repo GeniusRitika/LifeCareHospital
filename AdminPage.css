@@ -1,0 +1,66 @@
+.grid{
+    max-width: 100%;
+}
+
+.row1{
+    max-width: 100%;
+    margin-bottom: 100px;
+}
+
+.col1{
+    float: left;
+    width: 33%;
+}
+
+
+.col2{
+    float: left;
+    width: 33%;
+}
+
+
+.col3{
+    float: left;
+    width: 33%;
+}
+
+.bar a{
+    background-color: crimson;
+    width: 80%;
+    font-size: 24px;
+    border-radius: 20px;
+    box-shadow: 5px 5px black;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#GB a{
+    background-color: crimson;
+    width: 80%;
+    font-size: 24px;
+    border-radius: 20px;
+    box-shadow: 5px 5px black;
+    padding: 10px;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    border-radius: 10px;
+}
+
+p{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.specialization{
+    font-size: 18px;
+    font-weight: lighter;
+}
+

@@ -1,0 +1,70 @@
+.Background{
+    background-image: url("HospitalBackground.jpg");
+    background-size:cover;
+    background-position: initial;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 100vh;
+}
+
+.container{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 18px;
+    height: max-content;
+}
+
+.container .Contact{
+    margin-left: 30px;
+}
+.container h1{
+    font-weight: 900;
+}
+
+.container .number{
+    color: crimson;
+}
+
+.container .email{
+    color: crimson;
+}
+
+p{
+    font-size: 16px;
+    text-align: justify;
+}
+.Background{
+    background-image: url("HospitalBackground.jpg");
+    background-size:cover;
+    background-position: initial;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 100vh;
+}
+
+.my-container{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 18px;
+    height: max-content;
+}
+
+.my-container .Contact{
+    margin-left: 30px;
+}
+.my-container h1{
+    font-weight: 900;
+}
+
+.my-container .number{
+    color: crimson;
+}
+
+.my-container .email{
+    color: crimson;
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+}
